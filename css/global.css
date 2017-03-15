@@ -20,7 +20,7 @@ body {
 
 #brand {
 	text-indent: -90000px;
-	/*background: url(../images/brand.png) no-repeat top left;*/
+	background-color: white;
 	background-size: cover;
 	height: 60px;
 	width: 60px;
@@ -100,7 +100,7 @@ body {
 }
 
 #main-content {
-	background-image: url(../images/tasky_pattern.png);
+	background: white;
 	text-align: center;
 	padding: 25px 0;
 	overflow: hidden;
